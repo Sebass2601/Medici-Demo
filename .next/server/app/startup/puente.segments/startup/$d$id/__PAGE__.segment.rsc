@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[4016,["/_next/static/chunks/0fn7xarggjc5_.js","/_next/static/chunks/3iq4uirtjnmt8.js","/_next/static/chunks/1g51zg7ct5jgb.js","/_next/static/chunks/0x-2imyngi_8q.js"],"default"]
+3:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+d:I[37457,["/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+11:I[11414,["/_next/static/chunks/0fn7xarggjc5_.js","/_next/static/chunks/3iq4uirtjnmt8.js"],"default"]
+12:I[90233,["/_next/static/chunks/0fn7xarggjc5_.js","/_next/static/chunks/3iq4uirtjnmt8.js"],"default"]
+13:I[17004,["/_next/static/chunks/0fn7xarggjc5_.js","/_next/static/chunks/3iq4uirtjnmt8.js"],"default"]
+:HL["/_next/static/chunks/1f59wyrfgh0d1.css","style"]
+7:X
+f:X
+f:C
+0:{"buildId":"_eC7B4tFV7dn71clA1uyl","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"puente"}],[["$","script","script-0",{"src":"/_next/static/chunks/1g51zg7ct5jgb.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0x-2imyngi_8q.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0d1117"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Puente · Dealflow"}],["$","meta","1",{"name":"description","content":"Tinder for deal flow: investors swipe through short, standard startup cards."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","4",{"name":"apple-mobile-web-app-title","content":"Dealflow"}],["$","meta","5",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","6",{"rel":"icon","href":"/icon?1eb9074ac866f401","type":"image/png","sizes":"64x64"}],["$","link","7",{"rel":"apple-touch-icon","href":"/apple-icon?d4bb4d73b47314a6","type":"image/png","sizes":"180x180"}],["$","$La","8",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@10","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1f59wyrfgh0d1.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0fn7xarggjc5_.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3iq4uirtjnmt8.js","async":true}]],["$","html",null,{"lang":"en","className":"h-full scheme-dark antialiased","children":["$","body",null,{"className":"h-full bg-bg font-sans","children":["$","$L11",null,{"children":[["$","div",null,{"className":"flex h-dvh","children":[["$","$L12",null,{}],["$","div",null,{"className":"flex min-w-0 flex-1 flex-col pt-[env(safe-area-inset-top)] lg:pt-0","children":[["$","main",null,{"className":"relative flex min-h-0 flex-1 flex-col","children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$L13",null,{}]]}]]}],["$","div",null,{"id":"overlay-root","className":"pointer-events-none fixed inset-0 z-50"}]]}]}]}]]}],"isPartial":"$@14","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@15","rootVaryParams":null,"needsRuntimeRequest":"$@16"}
+5:null
+7:300
+16:true
+7:C
+15:0
+b:"$undefined"
+e:"$undefined"
+10:"$undefined"
+14:"$undefined"
+6:"$undefined"

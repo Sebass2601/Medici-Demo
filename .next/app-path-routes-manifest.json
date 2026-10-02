@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/apple-icon/route": "/apple-icon",
+  "/fund/page": "/fund",
+  "/icon/route": "/icon",
+  "/manifest.webmanifest/route": "/manifest.webmanifest",
+  "/page": "/",
+  "/pwa-icon/[size]/route": "/pwa-icon/[size]",
+  "/shortlist/page": "/shortlist",
+  "/startup/[id]/page": "/startup/[id]"
+}
